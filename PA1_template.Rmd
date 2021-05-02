@@ -7,7 +7,7 @@ output:
 
 
 ## Loading and preprocessing the data
-```{r, echo=FALSE, results='hide', warning=FALSE, message=FALSE}
+```{r, echo=TRUE, results='hide', warning=FALSE, message=FALSE}
 library(ggplot2)
 library(scales)
 library(Hmisc)

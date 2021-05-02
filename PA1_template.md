@@ -8,6 +8,11 @@ output:
 
 ## Loading and preprocessing the data
 
+```r
+library(ggplot2)
+library(scales)
+library(Hmisc)
+```
 
 ```r
 raw_data <- read.csv("activity.csv", header = TRUE)
